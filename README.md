@@ -23,14 +23,14 @@ pip install python-bidi
 ## Photos 
 
 ### GUI
-<img src="photos/image.png" width="800">
+<img src="photos/image.png" width="500">
 
 ### Raw Photo
-<img src="photos/daily_report.png" width="800">
+<img src="photos/daily_report.png" width="500">
 
 ### Output
 
 <p float="left">
-  <img src="photos/17-05-2024%201Morning%20Period%20Daily%20Report.png" width="500">
-  <img src="photos/16-03-2024%202Evening%20Period%20Daily%20Report.png" width="500">
+  <img src="photos/17-05-2024%201Morning%20Period%20Daily%20Report.png" width="200">
+  <img src="photos/16-03-2024%202Evening%20Period%20Daily%20Report.png" width="200">
 </p>
