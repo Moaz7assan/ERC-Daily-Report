@@ -1,6 +1,6 @@
 # Egyptian Red Crescent Daily Report
-<img src="photos/image.png" width="500">
 a GUI app that make a daily report photo (Ramdan Season) from Packing TENT in the ERC to add it to the logs or publish it to social media.
+<img src="photos/image.png" width="500">
 
 ## Libraries
 
