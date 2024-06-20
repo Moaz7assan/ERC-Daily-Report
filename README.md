@@ -31,6 +31,6 @@ pip install python-bidi
 ### Output
 
 <p float="left">
-  <img src="photos/17-05-2024%201Morning%20Period%20Daily%20Report.png" width="200">
-  <img src="photos/16-03-2024%202Evening%20Period%20Daily%20Report.png" width="200">
+  <img src="photos/17-05-2024%201Morning%20Period%20Daily%20Report.png" width="300">
+  <img src="photos/16-03-2024%202Evening%20Period%20Daily%20Report.png" width="300">
 </p>
