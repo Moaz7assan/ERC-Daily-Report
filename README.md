@@ -21,11 +21,12 @@ pip install python-bidi
 
 
 ## Photos 
+
 ### GUI
-![GUI](photos/image.png)
+<img src="photos/image.png" width="800">
 
 ### Raw Photo
-![Raw-Photo](photos/daily_report.png)
+<img src="photos/daily_report.png" width="800">
 
 ### Output
 
