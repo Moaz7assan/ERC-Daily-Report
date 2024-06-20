@@ -1,4 +1,5 @@
 # Egyptian Red Crescent Daily Report
+<img src="photos/image.png" width="500">
 a GUI app that make a daily report photo (Ramdan Season) from Packing TENT in the ERC to add it to the logs or publish it to social media.
 
 ## Libraries
@@ -20,10 +21,7 @@ pip install python-bidi
 ```
 
 
-## Photos 
-
-### GUI
-<img src="photos/image.png" width="500">
+## Examples
 
 ### Raw Photo
 <img src="photos/daily_report.png" width="500">
