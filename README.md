@@ -28,7 +28,5 @@ pip install python-bidi
 ![Raw-Photo](photos/daily_report.png)
 
 ### Output
-<img src="photos/17-05-2024%201Morning%20Period%20Daily%20Report.png" width="20">
-![1](photos/17-05-2024%201Morning%20Period%20Daily%20Report.png)
-
-![2](photos/16-03-2024%202Evening%20Period%20Daily%20Report.png)
+<img src="photos/17-05-2024%201Morning%20Period%20Daily%20Report.png" width="100">
+<img src="photos/16-03-2024%202Evening%20Period%20Daily%20Report.png" width="100">
