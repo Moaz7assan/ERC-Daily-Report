@@ -21,12 +21,12 @@ pip install python-bidi
 
 ## Photos 
 ### GUI
-![GUI](image.png)
+![GUI](photos/image.png)
 
 ### Raw Photo
-![Raw-Photo](data/daily_report.png)
+![Raw-Photo](photos/daily_report.png)
 
 ### Output
-- ![1](<16-03-2024 2Evening Period Daily Report.png>)
+- ![1](photos/17-05-2024%201Morning%20Period%20Daily%20Report.png)
 
-- ![2](<17-05-2024 1Morning Period Daily Report.png>)
+- ![2](photos/16-03-2024%202Evening%20Period%20Daily%20Report.png)
